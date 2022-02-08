@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+#assignment-instructions {
+    color: rgba(0, 162, 255, 1.0);
+    font-family: sans-serif;
+}
+
+li + li {
+    background-color: black;
+    color: white;
+}
+
+ol > li {
+    background: black;
+    color: white;
+}
+
+.new-color {
+    color: green;
+}
+
+code {
+    color: rgba(255, 0, 0, 1.0);
+    font-family: monospace;
+}
